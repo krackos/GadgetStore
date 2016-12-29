@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{3EC208DE-C43B-4E76-86D5-7B57463EE466}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GadgetStore/app/storeApp.js">
+    <Files>
+      <File FileName="GadgetStore/DAL/Configurations/AppStoreUserConfiguration.cs" Line="5" Column="2" />
+      <File FileName="GadgetStore/DAL/StoreContext.cs" Line="27" Column="30" />
+      <File FileName="GadgetStore/Infrastructure/AppStoreUserManager.cs" Line="44" Column="24" />
+      <File FileName="GadgetStore/Infrastructure/ApplicationOAuthProvider.cs" Line="45" Column="41" />
+      <File FileName="GadgetStore/App_Start/WebApiConfig.cs" Line="12" Column="57" />
+      <File FileName="GadgetStore/Controllers/OrdersController.cs" Line="16" Column="28" />
+      <File FileName="GadgetStore/Controllers/AccountController.cs" Line="46" Column="4" />
+      <File FileName="GadgetStore/app/controllers/gadgetStore.js" Line="79" Column="38" />
+      <File FileName="GadgetStore/app/storeApp.js" Line="22" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GadgetStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

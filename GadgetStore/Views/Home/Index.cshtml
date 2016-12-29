@@ -1,0 +1,16 @@
+﻿<div class="navbar navbar-default" role="navigation" ng-hide="checkoutComplete()">
+    <a class="navbar-brand" href="#">Gadgets</a>
+    <div class="col-sm-6 col-md-6" ng-show="showFilter()">
+        <form class="navbar-form" role="search">
+            <div class="input-group">
+                <input type="text" class="form-control input-group-lg" placeholder="Filter gadgets" ng-model="searchItem" />
+            </div>
+        </form>
+    </div>
+    <cart-details></cart-details>
+</div>
+<div class="alert alert-danger" ng-show="data.error" ng-cloak>
+    Error ({{data.error.status}}). Gadgets weren't loaded.
+    <a href="#" class="alert-link">Click here to try again</a>
+</div>
+<ng-view />

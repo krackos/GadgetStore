@@ -1,0 +1,12 @@
+.orderForm {
+    .ng-invalid {
+        border-color: brown;
+    }
+    .ng-valid {
+        border-color: lightgreen;
+    }
+    span.error {
+        color: red;
+        font-weight: bold;
+    }
+}
